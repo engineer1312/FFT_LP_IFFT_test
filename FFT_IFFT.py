@@ -10,6 +10,7 @@ from numpy.fft import rfft, fft, fftfreq, rfftfreq
 import matplotlib.pyplot as plt
 import numpy as np
 
+print('I made change here')
 Fs=500 #Sampling rate, is/should be known from the experimental campaign
 
 #READING HDF5 FILE 
